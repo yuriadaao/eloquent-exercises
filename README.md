@@ -85,6 +85,7 @@ Experiments
 Notes
 Difficulties encountered
 Chapter documentation
+<<<<<<< HEAD
 
 🚀 Long-Term Goal
 
@@ -95,3 +96,5 @@ Readability
 Maintainability
 Software architecture
 Professional development
+=======
+>>>>>>> 6cf2710ad32b08f6a91d18b60df016e383a42188
